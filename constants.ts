@@ -6,7 +6,7 @@ import landingpageImg from './components/image/landingpage.png';
 
 export const SERVICES: Service[] = [
   {
-    title: 'Web Design',
+    title: 'Web Dev',
     description: 'Professional websites and web apps built for performance and scalability..',
   imageUrl: websiteImg,
   },
