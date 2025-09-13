@@ -1,4 +1,4 @@
-# My Portfolio
+# simple Portfolio
 
 This repository contains everything you need to run your portfolio app locally.
 
