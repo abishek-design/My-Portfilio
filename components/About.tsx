@@ -8,7 +8,7 @@ const About: React.FC = () => {
         <h2 className="text-4xl font-black text-gray-800 mb-6">About Me</h2>
         <div className="relative inline-block">
       <img 
-        src={myphoto}
+        src={}
         alt="Abishek S"
         className="w-36 h-36 rounded-full object-cover mx-auto mb-8 shadow-xl border-4 border-white"
       />
@@ -17,7 +17,7 @@ const About: React.FC = () => {
             </div>
         </div>
         <p className="text-lg text-gray-600 leading-relaxed text-left md:text-center max-w-3xl mx-auto">
-          Hi, I’m Abishek S, currently a 2nd-year Computer Science student at Rajalakshmi Institute of Technology. My journey in tech started with curiosity about how websites and apps are built — and that curiosity grew into a passion for web development, UI/UX design, and AI automation.
+          Hi, . My journey in tech started with curiosity about how websites and apps are built — and that curiosity grew into a passion for web development, UI/UX design, and AI automation.
         </p>
         <p className="mt-4 text-lg text-gray-600 leading-relaxed text-left md:text-center max-w-3xl mx-auto">
           Alongside my studies, I’ve been building projects that combine creativity and technology from sleek landing pages to automation workflows. Every project is a chance to learn, grow, and push my skills further. I may be a student today, but I’m working toward becoming a developer who can design impactful digital experiences.
